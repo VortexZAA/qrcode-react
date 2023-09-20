@@ -35,7 +35,7 @@ function App() {
         <div
           id="reader"
           style={{
-            width: "600px",
+            maxWidth: "600px",
             margin: "0 auto",
           }}
         ></div>
