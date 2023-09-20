@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+img[alt="Info icon"] {
+  display: none;
+}
+
 
 .App-logo {
   height: 40vmin;
